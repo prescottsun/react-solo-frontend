@@ -20,3 +20,8 @@
 .App-link {
   color: #09d3ac;
 }
+
+#cityColumns {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
